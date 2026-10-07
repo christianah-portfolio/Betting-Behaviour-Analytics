@@ -71,7 +71,7 @@ The dashboard is built in Excel and includes:
 
 ## Dataset
 
-A sample dataset of **2,000 bettors** with 17 columns and no missing or duplicate records:
+A dataset of **2,000 bettors** with 17 columns and no missing or duplicate records:
 
 - **Profile:** age group, gender, city, monthly income
 - **Betting habits:** average bets per week, average bet amount, hours spent betting per week, years betting, most used betting app
