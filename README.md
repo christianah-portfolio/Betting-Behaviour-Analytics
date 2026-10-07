@@ -2,7 +2,7 @@
 
 **An interactive Excel dashboard that compares betting habits, addiction scores, and financial debt across six Nigerian cities and six betting platforms.**
 
-![Betting Addiction Dashboard](dashboard-pages/01_betting_dashboard.png)
+![Betting Addiction Dashboard](https://github.com/christianah-portfolio/Betting-Behaviour-Analytics/blob/main/01_betting_dashboard.png)
 
 ---
 
@@ -66,8 +66,7 @@ The dashboard is built in Excel and includes:
 - **Region analysis:** average weekly bets and addiction score by city
 - **Slicers** to filter the whole dashboard by city and betting platform
 
-![Betting Addiction Dashboard](dashboard-pages/01_betting_dashboard.png)
-
+![Betting Addiction Dashboard](https://github.com/christianah-portfolio/Betting-Behaviour-Analytics/blob/main/01_betting_dashboard.png)
 ---
 
 ## Dataset
