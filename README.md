@@ -84,7 +84,7 @@ The six cities are Abuja, Enugu, Ibadan, Kano, Lagos, and Port Harcourt. The six
 ## Approach
 
 1. **Explored** the dataset to understand each column and what it measures.
-2. **Cleaned and prepared** the data. `[EDIT: list the cleaning steps you actually performed in Power Query]`
+2. **Cleaned and prepared** the data by eliminating duplicates, trimming hidden spaces, and standardizing text casing to ensure data integrity.
 3. **Summarised the data** with Pivot Tables, and turned each summary into a Pivot Chart.
 4. **Built KPI cards** for average weekly bets, total bettors, and average addiction score.
 5. **Added slicers** for city and platform, and connected them to every chart so the whole dashboard filters together.
