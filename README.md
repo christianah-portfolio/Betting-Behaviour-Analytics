@@ -1,6 +1,6 @@
 # Betting Addiction Among Nigerians Dashboard
 
-**An interactive Excel dashboard that compares betting habits, addiction scores, and financial debt across six Nigerian cities and six betting platforms.**
+**An Excel dashboard exploring betting behaviour and reported financial outcomes using survey responses from 2,000 bettors across six Nigerian cities and six betting platforms. The project uses data cleaning, PivotTables, and visualisation to examine betting frequency, addiction-related survey scores, and self-reported financial debt.**
 
 ![Betting Addiction Dashboard](https://github.com/christianah-portfolio/Betting-Behaviour-Analytics/blob/main/01_betting_dashboard.png)
 
@@ -8,17 +8,14 @@
 
 ## Project Overview
 
-**Brief Description**
-An interactive Excel dashboard analysing betting behaviour, addiction scores, and financial debt for 2,000 bettors across six cities and six betting platforms.
-
 **Tools & Skills Used**
-Excel, Power Query, Pivot Tables, Pivot Charts, Slicers, KPI Cards, Data Cleaning, Data Storytelling.
+Microsoft Excel, Data Cleaning, Data Analysis, PivotTables, Data Visualisation, Dashboard Design.
 
 **Project Goals**
-To explore how betting habits and addiction levels differ by city and platform, and to show how common financial debt is among bettors.
+To explore reported betting patterns, compare survey responses across locations and platforms, and examine the relationship between betting behaviour and self-reported financial difficulties.
 
-**Results**
-Over 60% of bettors reported financial debt. The average addiction score was 5.54 out of 10, with Ibadan the highest city (5.72) and Bet9ja users betting most often (13.49 bets a week) and scoring highest on addiction among platforms (5.68).
+**Key Findings**
+Of the 2,000 respondents, 1,204, or approximately 60.2%, reported experiencing financial debt. The average addiction-related survey score was 5.54 out of 10, with Ibadan recording an average score of 5.72. Respondents using Bet9ja had the highest average reported weekly betting frequency, at 13.49.
 
 ---
 
